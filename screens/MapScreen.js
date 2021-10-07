@@ -4,7 +4,7 @@ import { View, Text } from "react-native";
 const MapScreen = () => {
   return (
     <View>
-      <Text>This is map screen</Text>
+      <Text>This is map screen only</Text>
     </View>
   );
 };
